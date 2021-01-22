@@ -27,3 +27,7 @@ Git & GitHub
  Merge - 병합, 여러명이 작업한 코드를 합치기
  
  
+ git 홈페이지
+ https://www.git-scm.com/
+ 
+ **** github에서 수정 (210122) ****
